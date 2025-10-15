@@ -1,4 +1,3 @@
-# 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
 
 **AIM:**
 
@@ -22,6 +21,9 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/f7f5cda1-9e2d-4de2-a0d8-e204068c192b" />
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -35,14 +37,27 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+   
+**TABULATION AND CALCULATION:**
+
+<img width="799" height="1280" alt="image" src="https://github.com/user-attachments/assets/135be6fc-8b27-4ba6-9b0c-9aa596969a8d" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9eb0d16a-1661-4016-a38a-534f784ab14e" />
+
+**MARK SPLIT UP:**
+
+<img width="1132" height="625" alt="image" src="https://github.com/user-attachments/assets/9440ea25-1601-467d-8a77-61eac08d6d2e" />
+
+
+
 
    **RESULT:**
 
-Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
+Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 5/3 V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	8mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	7.6mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	0.7mA.
 
